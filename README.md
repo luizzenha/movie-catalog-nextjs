@@ -2,6 +2,8 @@
 
 Este projeto demonstra diferentes estratégias de renderização do Next.js (SSG, SSR, PPR) usando a API do The Movie Database (TMDB).
 
+Todo o projeto foi gerado utilizando AI. Claude Sonnet 4 com IDE Kiro
+
 ## 🚀 Funcionalidades
 
 - **Página Inicial (SSG)**: Lista de filmes populares e mais bem avaliados gerada em build time
